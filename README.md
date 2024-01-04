@@ -6,7 +6,7 @@
 **Commerical Analyst @ Larsen & Toubro (_July 2021 - June 2023_)**
 - Scheduled the project timelines for the Mumbai Coastal Road, using Primavera P-6, and accordingly predicted 
 the requirements of men, machinery, and material.
-- Prepared interactive project monitoring dashboards in reporting about 25 KPIs on daily, weekly, and monthly 
+- Prepared interactive project monitoring dashboards in reporting about 25 KPIs on daily, weekly, and monthly
 levels assisting management in decision making which reduced 20% of the planner’s manhours.
 
 ## projects 
